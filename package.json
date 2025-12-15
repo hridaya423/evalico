@@ -13,7 +13,7 @@
     "mermaid": "^11.12.2",
     "next": "16.0.10",
     "react": "19.2.1",
-    "react-dom": "19.2.1",
+    "react-dom": "19.2.3",
     "recharts": "^3.5.1"
   },
   "devDependencies": {
